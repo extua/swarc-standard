@@ -4,7 +4,7 @@ abbrev: "Social Web ARChive"
 category: info
 
 docname: draft-bodleian-swarc-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: independent
 number:
 date:
 consensus: true
@@ -26,7 +26,7 @@ venue:
 author:
  -
     fullname: "Pierre Marshall"
-    organization: Your Organization Here
+    organization: Bodleian Libraries
     email: "pierre.marshall@bodleian.ox.ac.uk"
 
 normative:
