@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Swarc - an archive format for the Social Web"
+abbrev: "Social Web ARChive"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
